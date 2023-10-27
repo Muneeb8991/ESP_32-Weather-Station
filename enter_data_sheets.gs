@@ -1,6 +1,6 @@
 //Define which Sheet to enter data into 
 
-var ss = SpreadsheetApp.openById('18BK3Ea-2ETcTq_aI6HfaKpuFkOKYSeFYYbjFpwpBLY'); 
+var ss = SpreadsheetApp.openById('SHEET_ID'); 
 var sheet = ss.getSheetByName('Temperature'); 
  
 //Function to extract and enter data 
